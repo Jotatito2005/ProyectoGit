@@ -1,6 +1,6 @@
 # repo01
 
-Este repositorio contiene el código fuente del proyecto [nombre del proyecto].
+Este es un proyecto con la finalidad de aprender GIT y funcionalidades básicas.
 
 ## Creación del repositorio
 
@@ -47,10 +47,3 @@ Los commits son instantáneas del repositorio en un momento determinado.
 *   `git pull`: Descarga los cambios del repositorio remoto y los fusiona con la rama local.
 *   `git push`: Envía los commits locales al repositorio remoto.
 
-## Instrucciones de uso
-
-[Añade aquí instrucciones sobre cómo utilizar el proyecto]
-
-## Licencia
-
-[Añade la información sobre la licencia del proyecto]
